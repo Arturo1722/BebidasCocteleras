@@ -26,6 +26,7 @@ const CategoriasProvider = ({children}) => {
         <CategoriasContext.Provider
             value={{
                 categorias
+                
             }}
         >
             {children}
